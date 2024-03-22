@@ -33,7 +33,7 @@ export default {
   box-sizing border-box
   padding 0 10px
   top -35px
-  color #C0C0C0
+  color #C0C0C5
   span.pi-right
     float right
 
